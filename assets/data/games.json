@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Genshin Impact",
+    "category": "ARPG",
+    "releaseDate": "28 September 2020",
+    "imageUrl": "https://picsum.photos/seed/genshin/600/400",
+    "description": "If you've been looking for a game to scratch that open-world ARPG itch, one with perhaps a bit of magic and adventure, this is it.",
+    "systemRequirements": {
+      "OS": "Windows 7 SP1 64-bit",
+      "Processor": "Intel Core i7",
+      "Memory": "16 GB",
+      "Graphics": "GTX 1060 6GB",
+      "Storage": "30 GB"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Overwatch 2",
+    "category": "Shooter",
+    "releaseDate": "04 Oktober 2022",
+    "imageUrl": "https://picsum.photos/seed/overwatch/600/400",
+    "description": "A team-based hero shooter set in an optimistic future, where every match is the ultimate 5v5 battlefield brawl.",
+    "systemRequirements": {
+      "OS": "Windows 10 64-bit",
+      "Processor": "Intel Core i3",
+      "Memory": "6 GB",
+      "Graphics": "GTX 600 series",
+      "Storage": "50 GB"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Diablo Immortal",
+    "category": "MMOARPG",
+    "releaseDate": "02 Juni 2022",
+    "imageUrl": "https://picsum.photos/seed/diablo/600/400",
+    "description": "A brand-new game in Blizzard Entertainment’s genre-defining action-roleplaying game series.",
+    "systemRequirements": {
+      "OS": "Android / iOS / Win",
+      "Processor": "Intel Core i3",
+      "Memory": "4 GB",
+      "Graphics": "Intel HD 530",
+      "Storage": "24 GB"
+    }
+  }
+]
